@@ -52,8 +52,8 @@ interests:
 education:
   - area: BSc Hons. in Computer Science and Engineering
     institution: Jahangirnagar University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-03-09
+    date_end: 2026-03-01
     summary: |
       Here I am persuing my Degree in CSE
     
@@ -66,32 +66,6 @@ education:
     summary: |
       GPA: 5.00/5.00 (Science)
 
-  
-      
-     
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -169,4 +143,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! 👋 I’m Chandan Hembrom, a tech enthusiast with a passion for innovation and problem-solving. I enjoy exploring and working on projects related to IoT, artificial intelligence, and web development. My current interests include environmental monitoring, object detection, and smart systems.
+I love combining hardware and software to create meaningful solutions, such as smart environmental monitors or automated systems for daily life. My journey into coding started with C++ but has evolved into a love for Python and its versatility.
