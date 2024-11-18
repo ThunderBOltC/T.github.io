@@ -24,27 +24,23 @@ role: CSE Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Jahangirnagar University
+    url: https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:chandon1072@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Chandon93066243
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/thunder_boltc
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ThunderBOltC
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/bramuel-chandan-hembrom-a36b8b26b/
 
 interests:
   - Artificial Intelligence
