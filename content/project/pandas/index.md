@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: Movie Ticket Mangement System
 date: 2023-10-26
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - C++
+  - Console based
+  
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A system to buy movie tickets 
 
 <!--more-->
