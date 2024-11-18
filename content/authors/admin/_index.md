@@ -11,7 +11,7 @@ last_name: Hembrom
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🟢
 
 # Is this the primary user of the site?
 superuser: true
@@ -80,6 +80,15 @@ skills:
         description: ''
         percent: 70
         icon: circle-stack
+      - name: C++
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: HTML,CSS
+        description: ''
+        percent: 70
+        icon: code-bracket
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -88,10 +97,10 @@ skills:
         description: ''
         percent: 90
         icon: person-simple-walk
-      - name: Dogs
+      - name: Cats
         description: ''
         percent: 100
-        icon: dog
+        icon: cat
       - name: Photography
         description: ''
         percent: 100
