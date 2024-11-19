@@ -118,5 +118,5 @@ languages:
 
 ## About Me
 
-Hello! 👋 I’m Chandan Hembrom, a tech enthusiast with a passion for innovation and problem-solving. I enjoy exploring and working on projects related to IoT, artificial intelligence, and web development. My current interests include environmental monitoring, object detection, and smart systems.
+Hello! I’m Bramuel Chandan Hembrom, a tech enthusiast with a passion for innovation and problem-solving. I enjoy exploring and working on projects related to IoT, artificial intelligence, and web development. My current interests include environmental monitoring, object detection, and smart systems.
 I love combining hardware and software to create meaningful solutions, such as smart environmental monitors or automated systems for daily life. My journey into coding started with C++ but has evolved into a love for Python and its versatility.
